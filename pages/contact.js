@@ -10,8 +10,8 @@ export default function Contact() {
         <button type="submit" className="w-full bg-black text-white p-2 rounded">Отправить</button>
       </form>
       <div className="mt-6 text-lg">
-        <p>Telegram: @твойник</p>
-        <p>Email: hello@tibetan-medicine.com</p>
+        <p>Telegram: @wizold</p>
+        <p>Email: kagju108@gmail.com</p>
       </div>
     </div>
   );
